@@ -1,0 +1,103 @@
+
+.App {
+  margin: auto;
+  width: 1200px;
+  text-align: center;
+  margin-top: 150px;
+}
+ul.todo-list li {
+  list-style: none;
+  margin: 0px;
+  background: white;
+  padding: 8px 10px;
+  margin-bottom: 5px;
+}
+ul.todo-list {
+  padding: 0px;
+}
+.todo {
+  text-align: left;
+  font-size: 14px;
+}
+.submittodo {
+  width: 100px;
+  background: #22a6f2;
+  font-size: 15px;
+  border: none;
+  outline: none;
+  padding: 11px;
+}
+
+.todos-actions {
+  border-top: 1px solid lightgray;
+  padding-top: 10px;
+}
+/* Developed By UsamaAhmad751*/
+.todo-box {
+  padding: 40px;
+  width: 550px;
+  margin: auto;
+  background: ghostwhite;
+  margin-top: 24px;
+  padding-bottom: 15px;
+}
+.todos-actions button {
+  font-size: 12px;
+  margin: 0px 8px;
+  outline:none;
+  background: transparent;
+  border: none;
+  box-shadow: 4px 2px 8px lightgrey;
+}
+.todos-actions button:active {
+  box-shadow: 5px 0px 7px lightgrey;
+}
+.addtodo {
+  font-weight: 600;
+  padding: 8px;
+  outline: none;
+}
+.todo-actions button {
+  font-size: 13px;
+  padding: 5px 9px;
+  margin: 0px 5px;
+  outline: none;
+  border-radius: 2px;
+  border: none;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.strikethorugh{
+  text-decoration: line-through;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
