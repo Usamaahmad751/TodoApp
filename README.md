@@ -17,7 +17,7 @@ from your command line, clone and run todoApp:
 
 ```
 # Clone this repository
-$ git clone https://github.com/username/developerFolio.git
+$ git clone https://github.com/Usamaahmad751/TodoApp.git
 
 # Go into the repository
 $ cd developerFolio
@@ -45,13 +45,13 @@ Once you have done with your setup. You need to put your website online! I highl
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/Usamaahmad751/TodoApp.git/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
  - Initial Version By Usama Ahmad
 ## Authors
  - UsamaAhmad751
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Usamaahmad751/TodoApp.git/contributors) who participated in this project.
 
 ## License
 
