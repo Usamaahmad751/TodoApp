@@ -16,7 +16,7 @@ A step by step series of examples that tell you how to get a development env run
 From your command line, clone and run todoApp:
 
 - Clone this repository
-``` - $ git clone https://github.com/username/developerFolio.git ```
+``` - $ git clone github.com:Usamaahmad751/TodoApp.git ```
 
 - Go into the repository
  ``` - $ cd developerFolio```
