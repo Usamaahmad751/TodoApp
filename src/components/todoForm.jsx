@@ -16,5 +16,4 @@ class TodoForm extends Component {
         );
     }
 }
-//Developed By UsamaAhmad
 export default TodoForm;
