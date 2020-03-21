@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 class TodoList extends Component {
     render() {
-
-        return (
+      return (
             <React.Fragment>
                 <div className="todo-box">
                     {
@@ -44,6 +43,4 @@ class TodoList extends Component {
         );
     }
 }
-
 export default TodoList;
-//Developed By UsamaAhmad751
