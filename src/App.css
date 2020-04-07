@@ -70,11 +70,6 @@ ul.todo-list {
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 .strikethorugh{
   text-decoration: line-through;
 }
@@ -87,9 +82,5 @@ ul.todo-list {
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
 }
 
