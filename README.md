@@ -1,6 +1,6 @@
 # TodoApp- React App
 Experience the ToDo app below. Enter the task in the input box, click on add button to add to the list. To remove from the list, click on the todo to be removed.
-One Paragraph of project description goes here
+
 
 ## Getting Started
 
