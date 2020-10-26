@@ -2,8 +2,7 @@
 .App {
   margin: auto;
   width: 1200px;
-  text-align: center;
-  margin-top: 150px;
+  text-align: center
 }
 ul.todo-list li {
   list-style: none;
